@@ -1,6 +1,7 @@
 # stories
 
-A new Flutter project.
+A new Flutter project. </br>
+replication of the flutter app made by Devefy </br>
 
 ## Getting Started
 
